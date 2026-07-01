@@ -188,7 +188,7 @@ If you found this repository useful,
 Aspiring Software Engineer | Java Developer
 
 - GitHub: https://github.com/kadirisaikumar3
-- LinkedIn: https://www.linkedin.com/in/kadirisaikumar3/
+- LinkedIn: https://www.linkedin.com/in/saikumarkadiri/
 
 ---
 
