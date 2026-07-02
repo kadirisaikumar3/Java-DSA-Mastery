@@ -90,34 +90,34 @@ Java-DSA-Mastery
 
 # 📚 Learning Progress
 
-| Chapter | Topic | Status |
-|---------|-------|--------|
-| ✅ 01 | Time & Space Complexity | Completed |
-| ✅ 02 | Arrays | Completed |
-| ✅ 03 | Strings | Completed |
-| ⏳ 04 | Hashing | Coming Soon |
-| ⏳ 05 | Two Pointers | Coming Soon |
-| ⏳ 06 | Sliding Window | Coming Soon |
-| ⏳ 07 | Binary Search | Coming Soon |
-| ⏳ 08 | Recursion | Coming Soon |
-| ⏳ 09 | Backtracking | Coming Soon |
-| ⏳ 10 | Linked List | Coming Soon |
-| ⏳ 11 | Stack | Coming Soon |
-| ⏳ 12 | Queue | Coming Soon |
-| ⏳ 13 | Trees | Coming Soon |
-| ⏳ 14 | Binary Search Tree | Coming Soon |
-| ⏳ 15 | Heaps | Coming Soon |
-| ⏳ 16 | Tries | Coming Soon |
-| ⏳ 17 | Graphs | Coming Soon |
-| ⏳ 18 | Greedy | Coming Soon |
-| ⏳ 19 | Dynamic Programming | Coming Soon |
-| ⏳ 20 | Bit Manipulation | Coming Soon |
-| ⏳ 21 | Math | Coming Soon |
-| ⏳ 22 | Union Find | Coming Soon |
-| ⏳ 23 | Segment Tree | Coming Soon |
-| ⏳ 24 | Fenwick Tree | Coming Soon |
-| ⏳ 25 | Advanced Patterns | Coming Soon |
-| ⏳ 26 | Interview Revision | Coming Soon |
+| Chapter | Topic                   | Status |
+|---------|-------------------------|--------|
+| ✅ 01 | Time & Space Complexity   | Completed |
+| ✅ 02 | Arrays                    | Completed |
+| ✅ 03 | Strings                   | Completed |
+| ✅ 04 | Hashing                   | Completed |
+| ✅ 05 | Two Pointers              | Completed |
+| ⏳ 06 | Sliding Window            | Coming Soon |
+| ⏳ 07 | Binary Search             | Coming Soon |
+| ⏳ 08 | Recursion                 | Coming Soon |
+| ⏳ 09 | Backtracking              | Coming Soon |
+| ⏳ 10 | Linked List               | Coming Soon |
+| ⏳ 11 | Stack                     | Coming Soon |
+| ⏳ 12 | Queue                     | Coming Soon |
+| ⏳ 13 | Trees                     | Coming Soon |
+| ⏳ 14 | Binary Search Tree        | Coming Soon |
+| ⏳ 15 | Heaps                     | Coming Soon |
+| ⏳ 16 | Tries                     | Coming Soon |
+| ⏳ 17 | Graphs                    | Coming Soon |
+| ⏳ 18 | Greedy                    | Coming Soon |
+| ⏳ 19 | Dynamic Programming       | Coming Soon |
+| ⏳ 20 | Bit Manipulation          | Coming Soon |
+| ⏳ 21 | Math                      | Coming Soon |
+| ⏳ 22 | Union Find                | Coming Soon |
+| ⏳ 23 | Segment Tree              | Coming Soon |
+| ⏳ 24 | Fenwick Tree              | Coming Soon |
+| ⏳ 25 | Advanced Patterns         | Coming Soon |
+| ⏳ 26 | Interview Revision        | Coming Soon |
 
 ---
 
