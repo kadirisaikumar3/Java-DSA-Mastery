@@ -97,7 +97,7 @@ Java-DSA-Mastery
 | ✅ 03 | Strings                   | Completed |
 | ✅ 04 | Hashing                   | Completed |
 | ✅ 05 | Two Pointers              | Completed |
-| ⏳ 06 | Sliding Window            | Coming Soon |
+| ✅ 06 | Sliding Window            | Completed |
 | ⏳ 07 | Binary Search             | Coming Soon |
 | ⏳ 08 | Recursion                 | Coming Soon |
 | ⏳ 09 | Backtracking              | Coming Soon |
