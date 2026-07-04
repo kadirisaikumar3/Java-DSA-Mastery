@@ -98,7 +98,7 @@ Java-DSA-Mastery
 | ✅ 04 | Hashing                   | Completed |
 | ✅ 05 | Two Pointers              | Completed |
 | ✅ 06 | Sliding Window            | Completed |
-| ⏳ 07 | Binary Search             | Coming Soon |
+| ✅ 07 | Binary Search             | Completed |
 | ⏳ 08 | Recursion                 | Coming Soon |
 | ⏳ 09 | Backtracking              | Coming Soon |
 | ⏳ 10 | Linked List               | Coming Soon |
