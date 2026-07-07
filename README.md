@@ -100,8 +100,8 @@ Java-DSA-Mastery
 | ✅ 06 | Sliding Window            | Completed |
 | ✅ 07 | Binary Search             | Completed |
 | ✅ 08 | Recursion                 | Completed |
-| ⏳ 09 | Backtracking              | Coming Soon |
-| ⏳ 10 | Linked List               | Coming Soon |
+| ✅ 09 | Backtracking              | Completed |
+| ✅ 10 | Linked List               | Completed |
 | ⏳ 11 | Stack                     | Coming Soon |
 | ⏳ 12 | Queue                     | Coming Soon |
 | ⏳ 13 | Trees                     | Coming Soon |
