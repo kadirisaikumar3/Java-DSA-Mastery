@@ -102,8 +102,8 @@ Java-DSA-Mastery
 | ✅ 08 | Recursion                 | Completed |
 | ✅ 09 | Backtracking              | Completed |
 | ✅ 10 | Linked List               | Completed |
-| ⏳ 11 | Stack                     | Coming Soon |
-| ⏳ 12 | Queue                     | Coming Soon |
+| ✅ 11 | Stack                     | Completed |
+| ✅ 12 | Queue                     | Completed |
 | ⏳ 13 | Trees                     | Coming Soon |
 | ⏳ 14 | Binary Search Tree        | Coming Soon |
 | ⏳ 15 | Heaps                     | Coming Soon |
