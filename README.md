@@ -104,7 +104,7 @@ Java-DSA-Mastery
 | ✅ 10 | Linked List               | Completed |
 | ✅ 11 | Stack                     | Completed |
 | ✅ 12 | Queue                     | Completed |
-| ⏳ 13 | Trees                     | Coming Soon |
+| ✅ 13 | Trees                     | Completed |
 | ⏳ 14 | Binary Search Tree        | Coming Soon |
 | ⏳ 15 | Heaps                     | Coming Soon |
 | ⏳ 16 | Tries                     | Coming Soon |
