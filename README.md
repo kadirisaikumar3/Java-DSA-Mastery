@@ -108,7 +108,7 @@ Java-DSA-Mastery
 | ✅ 14 | Binary Search Tree        | Completed |
 | ✅ 15 | Heaps                     | Completed |
 | ✅ 16 | Tries                     | Completed |
-| ⏳ 17 | Graphs                    | Coming Soon |
+| ✅ 17 | Graphs                    | Completed |
 | ⏳ 18 | Greedy                    | Coming Soon |
 | ⏳ 19 | Dynamic Programming       | Coming Soon |
 | ⏳ 20 | Bit Manipulation          | Coming Soon |
