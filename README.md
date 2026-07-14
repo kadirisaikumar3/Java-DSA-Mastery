@@ -109,7 +109,7 @@ Java-DSA-Mastery
 | ✅ 15 | Heaps                     | Completed |
 | ✅ 16 | Tries                     | Completed |
 | ✅ 17 | Graphs                    | Completed |
-| ⏳ 18 | Greedy                    | Coming Soon |
+| ✅ 18 | Greedy                    | Completed |
 | ⏳ 19 | Dynamic Programming       | Coming Soon |
 | ⏳ 20 | Bit Manipulation          | Coming Soon |
 | ⏳ 21 | Math                      | Coming Soon |
