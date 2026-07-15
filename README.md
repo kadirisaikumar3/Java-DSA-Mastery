@@ -110,7 +110,7 @@ Java-DSA-Mastery
 | ✅ 16 | Tries                     | Completed |
 | ✅ 17 | Graphs                    | Completed |
 | ✅ 18 | Greedy                    | Completed |
-| ⏳ 19 | Dynamic Programming       | Coming Soon |
+| ✅ 19 | Dynamic Programming       | Completed |
 | ⏳ 20 | Bit Manipulation          | Coming Soon |
 | ⏳ 21 | Math                      | Coming Soon |
 | ⏳ 22 | Union Find                | Coming Soon |
