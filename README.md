@@ -112,7 +112,7 @@ Java-DSA-Mastery
 | ✅ 18 | Greedy                    | Completed |
 | ✅ 19 | Dynamic Programming       | Completed |
 | ✅ 20 | Bit Manipulation          | Completed |
-| ⏳ 21 | Math                      | Coming Soon |
+| ✅ 21 | Math                      | Completed |
 | ⏳ 22 | Union Find                | Coming Soon |
 | ⏳ 23 | Segment Tree              | Coming Soon |
 | ⏳ 24 | Fenwick Tree              | Coming Soon |

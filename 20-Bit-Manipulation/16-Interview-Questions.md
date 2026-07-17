@@ -4,82 +4,95 @@
 
 # Beginner
 
-### 1. What is Dynamic Programming?
+### 1. What is Bit Manipulation?
 
-Dynamic Programming (DP) is an optimization technique that solves overlapping subproblems and stores their results to avoid repeated computation.
-
----
-
-### 2. What are the two properties required for DP?
-
-- Overlapping Subproblems
-- Optimal Substructure
+Bit Manipulation is the technique of performing operations directly on the binary representation of numbers.
 
 ---
 
-### 3. What is Memoization?
+### 2. What are the main bitwise operators?
 
-A Top-Down DP approach using recursion and caching.
+- AND (&)
+- OR (|)
+- XOR (^)
+- NOT (~)
+- Left Shift (<<)
+- Right Shift (>>)
 
 ---
 
-### 4. What is Tabulation?
+### 3. How do you check if a number is a power of two?
 
-A Bottom-Up DP approach using iteration and a DP table.
+```java
+(n > 0) && ((n & (n - 1)) == 0)
+```
 
 ---
 
-### 5. What is a DP State?
+### 4. What is XOR?
 
-A state represents a subproblem whose solution is stored in the DP table.
+XOR returns `1` if two bits are different; otherwise, it returns `0`.
+
+---
+
+### 5. How do you count set bits efficiently?
+
+Use Brian Kernighan's Algorithm:
+
+```java
+while(n != 0){
+    n = n & (n - 1);
+    count++;
+}
+```
 
 ---
 
 # Intermediate
 
-### 6. How do you solve a DP problem?
+### 6. What is Bit Masking?
 
-1. Define the state
-2. Find the transition
-3. Define base cases
-4. Fill the DP table
-5. Return the answer
+Bit Masking manipulates individual bits using bitwise operators.
 
 ---
 
-### 7. What is State Transition?
+### 7. Why does `n & (n - 1)` work?
 
-A formula that computes the current state using previously solved states.
-
----
-
-### 8. Difference between Memoization and Tabulation?
-
-- Memoization → Recursive
-- Tabulation → Iterative
+It removes the lowest set bit from a number.
 
 ---
 
-### 9. Why is DP faster than recursion?
+### 8. Why is XOR used in the Single Number problem?
 
-Because it avoids solving the same subproblem multiple times.
+Duplicate numbers cancel each other because:
+
+```text
+a ^ a = 0
+0 ^ b = b
+```
 
 ---
 
-### 10. When should DP be used?
+### 9. How are subsets generated using bits?
 
-Whenever the same subproblem is solved repeatedly and the problem has optimal substructure.
+Each bit in a mask represents whether an element is included or excluded.
+
+---
+
+### 10. When should Bit Manipulation be used?
+
+When problems involve binary representation, flags, powers of two, unique elements, or subsets.
 
 ---
 
 # Google-Level Questions
 
-- House Robber
-- Coin Change
-- Edit Distance
-- Longest Common Subsequence
-- Longest Increasing Subsequence
-- Burst Balloons
+- Single Number
+- Missing Number
+- Counting Bits
+- Maximum XOR of Two Numbers
+- Subsets
+- Single Number III
 
 ---
 
@@ -87,7 +100,6 @@ Whenever the same subproblem is solved repeatedly and the problem has optimal su
 
 Always explain:
 
-- DP State
-- Transition
-- Base Cases
+- Binary representation
+- Chosen bit operation
 - Time & Space Complexity
