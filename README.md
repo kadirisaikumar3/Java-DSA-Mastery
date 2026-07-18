@@ -113,7 +113,7 @@ Java-DSA-Mastery
 | ✅ 19 | Dynamic Programming       | Completed |
 | ✅ 20 | Bit Manipulation          | Completed |
 | ✅ 21 | Math                      | Completed |
-| ⏳ 22 | Union Find                | Coming Soon |
+| ✅ 22 | Union Find                | Completed |
 | ⏳ 23 | Segment Tree              | Coming Soon |
 | ⏳ 24 | Fenwick Tree              | Coming Soon |
 | ⏳ 25 | Advanced Patterns         | Coming Soon |
