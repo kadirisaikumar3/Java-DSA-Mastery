@@ -114,7 +114,7 @@ Java-DSA-Mastery
 | ✅ 20 | Bit Manipulation          | Completed |
 | ✅ 21 | Math                      | Completed |
 | ✅ 22 | Union Find                | Completed |
-| ⏳ 23 | Segment Tree              | Coming Soon |
+| ✅ 23 | Segment Tree              | Completed |
 | ⏳ 24 | Fenwick Tree              | Coming Soon |
 | ⏳ 25 | Advanced Patterns         | Coming Soon |
 | ⏳ 26 | Interview Revision        | Coming Soon |
