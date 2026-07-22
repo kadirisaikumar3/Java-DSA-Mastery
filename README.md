@@ -116,7 +116,7 @@ Java-DSA-Mastery
 | ✅ 22 | Union Find                | Completed |
 | ✅ 23 | Segment Tree              | Completed |
 | ✅ 24 | Fenwick Tree              | Completed |
-| ⏳ 25 | Advanced Patterns         | Coming Soon |
+| ✅ 25 | Advanced Patterns         | Completed |
 | ⏳ 26 | Interview Revision        | Coming Soon |
 
 ---
